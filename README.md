@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 A very simple 2 player offline game created for windows OS.
 
 Light weight. No extended libraries. No Framework. 
